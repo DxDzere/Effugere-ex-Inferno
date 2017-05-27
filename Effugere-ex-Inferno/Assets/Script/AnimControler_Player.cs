@@ -8,9 +8,7 @@ public class AnimControler_Player : MonoBehaviour {
     private float turning;
     private float backward;
 
-    public int walkSpeed;
     public int turnSpeed;
-    public int backSpeed;
 
 	// Use this for initialization
 	void Start () {
