@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/piso 7.unity
+- path: Assets/Scene/001.unity
   isLoaded: 1
   isActive: 1
